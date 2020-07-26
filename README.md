@@ -12,11 +12,12 @@
 - TripAdvisor
 - Yelp
 
-'''
+## Citation
+```
 @inproceedings{CIKM20-NETE,
 	title={Generate and Evaluate Neural Template Explanations for Recommendation},
 	author={Li, Lei and Zhang, Yongfeng and Chen, Li},
 	booktitle={CIKM},
 	year={2020}
 }
-'''
+```
