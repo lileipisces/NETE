@@ -1,7 +1,7 @@
 # NETE (NEural TEmplate)
 
 ## Paper
-- Lei Li, Yongfeng Zhang, Li Chen. Generate and Evaluate Neural Template Explanations for Recommendation. CIKM20.
+- Lei Li, Yongfeng Zhang, Li Chen. Generate and Evaluate Neural Template Explanations for Recommendation. CIKM'20.
 
 ## Code dependecies
 - Tensorflow 1.4
