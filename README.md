@@ -2,6 +2,7 @@
 
 ## Paper
 - Lei Li, Yongfeng Zhang, Li Chen. Generate Neural Template Explanations for Recommendation. CIKM'20.
+- Lei Li, Li Chen, Yongfeng Zhang. Towards Controllable Explanation Generation for Recommender Systems via Neural Template. WWW'20 Demo.
 
 ## Code dependecies
 - Tensorflow 1.4
