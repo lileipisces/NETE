@@ -1,19 +1,19 @@
 # NETE (NEural TEmplate)
 
-## Paper
-- Lei Li, Yongfeng Zhang, Li Chen. Generate Neural Template Explanations for Recommendation. CIKM'20.
-- Lei Li, Li Chen, Yongfeng Zhang. Towards Controllable Explanation Generation for Recommender Systems via Neural Template. WWW'20 Demo.
+## Papers
+- Lei Li, Yongfeng Zhang, Li Chen. Generate Neural Template Explanations for Recommendation. CIKM'20. \[[Paper](https://lileipisces.github.io/files/CIKM20-NETE-paper.pdf)\]
+- Lei Li, Li Chen, Yongfeng Zhang. Towards Controllable Explanation Generation for Recommender Systems via Neural Template. WWW'20 Demo. \[[Paper](https://lileipisces.github.io/files/WWW20-NETE-paper.pdf)\]
 
 ## Code dependecies
-- Tensorflow 1.4
+- TensorFlow 1.4
 - Python 3.6
 
-## Datasets to download
+## Datasets to [download](https://drive.google.com/drive/folders/1z90ExLiEc1ZTyPir5qxbXxQOWslsspIH?usp=sharing)
 - Amazon Movie & TV
 - TripAdvisor
 - Yelp
 
-## Citation
+## Citations
 ```
 @inproceedings{CIKM20-NETE,
 	title={Generate Neural Template Explanations for Recommendation},
