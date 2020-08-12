@@ -1,0 +1,1 @@
+python -u run.py -gd 0 -dp ../data/TripAdvisor/reviews.pickle -id ../data/TripAdvisor/1/ -pf 0 -pp tripadvisor.1 >> tripadviosr.1.log
