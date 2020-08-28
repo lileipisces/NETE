@@ -13,7 +13,7 @@
 - TripAdvisor
 - Yelp
 
-For those who are interested in how to obtain (feature, opinion, template, sentiment) triplets, please visit [Sentires-Guide](https://github.com/lileipisces/Sentires-Guide).
+For those who are interested in how to obtain (feature, opinion, template, sentiment) quadruples, please visit [Sentires-Guide](https://github.com/lileipisces/Sentires-Guide).
 
 ## Citations
 ```
