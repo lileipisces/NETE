@@ -4,14 +4,16 @@
 - Lei Li, Yongfeng Zhang, Li Chen. Generate Neural Template Explanations for Recommendation. CIKM'20. \[[Paper](https://lileipisces.github.io/files/CIKM20-NETE-paper.pdf)\]
 - Lei Li, Li Chen, Yongfeng Zhang. Towards Controllable Explanation Generation for Recommender Systems via Neural Template. WWW'20 Demo. \[[Paper](https://lileipisces.github.io/files/WWW20-NETE-paper.pdf)\]
 
+**A better Transformer-based version is available at [PETER](https://github.com/lileipisces/PETER)!**
+
 ## Code dependencies
 - TensorFlow 1.4
 - Python 3.6
 
 ## Datasets to [download](https://drive.google.com/drive/folders/1z90ExLiEc1ZTyPir5qxbXxQOWslsspIH?usp=sharing)
 - Amazon Movies & TV
-- TripAdvisor
-- Yelp
+- TripAdvisor Hong Kong
+- Yelp 2019
 
 For those who are interested in how to obtain (feature, opinion, template, sentiment) quadruples, please refer to [Sentires-Guide](https://github.com/lileipisces/Sentires-Guide).
 
