@@ -5,6 +5,7 @@
 - Lei Li, Li Chen, Yongfeng Zhang. Towards Controllable Explanation Generation for Recommender Systems via Neural Template. WWW'20 Demo. \[[Paper](https://lileipisces.github.io/files/WWW20-NETE-paper.pdf)\]
 
 **A small unpretrained Transformer version is available at [PETER](https://github.com/lileipisces/PETER)!**
+
 **A large pretrained GPT-2 version is available at [PEPLER](https://github.com/lileipisces/PEPLER)!**
 
 ## Code dependencies
