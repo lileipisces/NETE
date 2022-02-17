@@ -8,6 +8,8 @@
 
 **A large pretrained GPT-2 version is available at [PEPLER](https://github.com/lileipisces/PEPLER)!**
 
+**A small ecosystem for Recommender Systems-based Natural Language Generation is available at [NLG4RS](https://github.com/lileipisces/NLG4RS)!**
+
 ## Code dependencies
 - TensorFlow 1.4
 - Python 3.6
