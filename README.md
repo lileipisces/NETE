@@ -14,7 +14,7 @@
 - TensorFlow 1.4
 - Python 3.6
 
-## Datasets to [download](https://lifehkbueduhk-my.sharepoint.com/:f:/g/personal/16484134_life_hkbu_edu_hk/Eln600lqZdVBslRwNcAJL5cBarq6Mt8WzDKpkq1YCqQjfQ?e=cISb1C)
+## Datasets to [download](https://drive.google.com/drive/folders/1yB-EFuApAOJ0RzTI0VfZ0pignytguU0_?usp=sharing)
 - Amazon Movies & TV
 - TripAdvisor Hong Kong
 - Yelp 2019
